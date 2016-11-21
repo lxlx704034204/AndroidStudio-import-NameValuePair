@@ -1,0 +1,2 @@
+# AndroidStudio-import-NameValuePair
+解决AndroidStudio无法引入 NameValuePair的问题
